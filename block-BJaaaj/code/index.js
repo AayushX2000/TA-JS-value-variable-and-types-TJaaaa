@@ -43,7 +43,7 @@ oddNumber=61;
 
 // Reassign the value of `wiseMan` to "Samwell Tarly"
 // Declare a variable `userName` with value "Lysa Arryn"
-// Declare a variable named `oddNumber` and assign a value `57`.
+// Declare agit variable named `oddNumber` and assign a value `57`.
 // Reassign the value of `oddNumber` to 61
 
 // Mathematical Operation
